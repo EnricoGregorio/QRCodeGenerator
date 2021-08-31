@@ -1,7 +1,7 @@
 # QRCodeGenerator
 ## US-ENG
  QR Code generator made entirely with Python.
- ![QRCodeImage](https://twitter.com/enricosg_/status/1432511627669168133/photo/1)
+ ![QRCodeImage](qr.png)
 
  ## Important!
  Remember to install pips!
@@ -11,7 +11,7 @@
 ***
 ## PT-BR
  Gerador de QRCode feito totalmente em Python.
- ![QRCodeImage](https://twitter.com/enricosg_/status/1432511627669168133/photo/1)
+ ![QRCodeImage](qr.png)
 
 ## Importante!
  Lembre-se de instalar os pips!

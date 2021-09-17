@@ -1,6 +1,6 @@
 import pyqrcode
 import png
-from pyqrcode import QRCode
+# from pyqrcode import QRCode
 
 # Conteúdo do QR Code.
 content = 'https://github.com/EnricoGregorio'
@@ -11,4 +11,4 @@ convert = pyqrcode.create(content)
 count = 0
 
 # Cria um arquivo PNG do QR Code.
-convert.png(r'qr.png', scale=8)
+convert.png(r'img/qr.png', scale=8)

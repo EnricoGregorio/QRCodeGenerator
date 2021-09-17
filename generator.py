@@ -8,7 +8,5 @@ content = 'https://github.com/EnricoGregorio'
 # Converte o Conteúdo em um QR Code.
 convert = pyqrcode.create(content)
 
-count = 0
-
 # Cria um arquivo PNG do QR Code.
 convert.png(r'img/qr.png', scale=8)
